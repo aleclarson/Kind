@@ -1,7 +1,7 @@
 {
   "name": "Kind",
   "version": "1.0.0",
-  "main": "js/src/Kind",
+  "main": "js/Kind",
   "dependencies": {
     "wrongType": "aleclarson/wrongType#1.0.0",
     "Validator": "aleclarson/Validator#1.0.0"

@@ -22,4 +22,4 @@ module.exports = Validator.Type("Kind", {
   }
 });
 
-//# sourceMappingURL=../../map/src/Kind.map
+//# sourceMappingURL=map/Kind.map
