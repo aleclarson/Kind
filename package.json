@@ -1,0 +1,14 @@
+{
+  "name": "Kind",
+  "version": "1.0.0",
+  "main": "js/Kind",
+  "dependencies": {
+    "Validator": "aleclarson/Validator#1.1.0",
+    "wrongType": "aleclarson/wrongType#1.0.0"
+  },
+  "lotus": {
+    "plugins": [
+      "lotus-coffee"
+    ]
+  }
+}
