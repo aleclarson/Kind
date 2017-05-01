@@ -1,6 +1,6 @@
 {
   "name": "Kind",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "js/Kind",
   "plugins": [
     "lotus-coffee"
@@ -10,7 +10,7 @@
     "postinstall": "npm run build"
   },
   "dependencies": {
-    "Validator": "aleclarson/Validator#1.1.1",
-    "wrongType": "aleclarson/wrongType#1.0.0"
+    "Validator": "aleclarson/Validator#1.2.0",
+    "wrongType": "aleclarson/wrongType#1.0.1"
   }
 }
